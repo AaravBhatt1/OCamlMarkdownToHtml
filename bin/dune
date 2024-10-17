@@ -1,0 +1,4 @@
+(executable
+ (public_name OCamlHtmlToMarkdown)
+ (name main)
+ (libraries OCamlHtmlToMarkdown))
