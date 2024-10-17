@@ -1,4 +1,4 @@
 (library
  (name MarkdownToHtml)
- (modules tokenizer)
+ (modules tokenizer parser)
  )

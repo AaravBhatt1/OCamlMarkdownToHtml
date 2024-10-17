@@ -1,6 +1,6 @@
 type token =
-  | Newline
-  | Header of int
-  | Text of string
+  | NewlineToken
+  | HeaderToken of int
+  | TextToken of string
 
-val tokenizer : string -> token list
+val tokenize : string -> token list
