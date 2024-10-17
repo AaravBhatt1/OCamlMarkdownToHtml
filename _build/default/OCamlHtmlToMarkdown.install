@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/OCamlHtmlToMarkdown/META"
-  "_build/install/default/lib/OCamlHtmlToMarkdown/dune-package"
-  "_build/install/default/lib/OCamlHtmlToMarkdown/opam"
-]
-bin: [
-  "_build/install/default/bin/OCamlHtmlToMarkdown"
-]

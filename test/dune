@@ -1,4 +1,4 @@
 (test
  (name tokenizer_test)
- (libraries OCamlHtmlToMarkdown alcotest)
+ (libraries MarkdownToHtml alcotest)
  )

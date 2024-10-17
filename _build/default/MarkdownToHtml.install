@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/MarkdownToHtml/META"
+  "_build/install/default/lib/MarkdownToHtml/dune-package"
+  "_build/install/default/lib/MarkdownToHtml/opam"
+]
+bin: [
+  "_build/install/default/bin/MarkdownToHtml"
+]

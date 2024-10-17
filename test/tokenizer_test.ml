@@ -1,4 +1,4 @@
-open OCamlHtmlToMarkdown.Tokenizer
+open MarkdownToHtml.Tokenizer
 
 (* TODO: Create a proper test suite *)
 
